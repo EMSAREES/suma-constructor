@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\suma constructor\suma constructor\bin\Debug\suma constructor.exe.config
+C:\Users\emili\source\repos\suma constructor\suma constructor\bin\Debug\suma constructor.exe
+C:\Users\emili\source\repos\suma constructor\suma constructor\bin\Debug\suma constructor.pdb
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma constructor.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma_constructor.Form1.resources
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma_constructor.Properties.Resources.resources
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma constructor.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma constructor.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma constructor.exe
+C:\Users\emili\source\repos\suma constructor\suma constructor\obj\Debug\suma constructor.pdb
